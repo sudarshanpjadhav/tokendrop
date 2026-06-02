@@ -1,6 +1,6 @@
 # 🪂 tokendrop
 
-> **Drop tokens. Not quality.**
+> **Your AI editor forgets everything. tokendrop fixes that.**
 
 A battle-tested collection of AI skill files for developers — plug them into any AI editor and instantly reduce token usage while getting more precise, context-aware responses.
 
